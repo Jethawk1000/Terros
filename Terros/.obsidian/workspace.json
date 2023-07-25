@@ -11,8 +11,13 @@
             "id": "812c1b440b550b2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Terros/Cormyr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Terros/Cormyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Terros/Cormyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Terros/Cormyr.md"
+              }
             }
           },
           {
@@ -179,6 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Locations/Terros/Cormyr.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -298,6 +308,19 @@
   },
   "active": "812c1b440b550b2e",
   "lastOpenFiles": [
+    "Locations/Terros/Corytha.md",
+    "Locations/Terros/Westgard.md",
+    "Objects/Codexes/Codex de Natura.md",
+    "Lore/The History of Terros, Volume 12.md",
+    "Lore/The Journal of Caerys Blackstar.md",
+    "Locations/Terros/The Empire.md",
+    "Lore/The Ten Blades of Terros.md",
+    "Objects/Elder Blades/Carina.md",
+    "Locations/Terros/Cormyr.md",
+    "Locations/Telam's Castle.md",
+    "People/Isabel.md",
+    "Empress Sophia.md",
+    "People/Organizations/The Order of the Magi/Lana.md",
     "The Centerlands.md",
     "Delos.md",
     "Tel Dorac.md",
@@ -305,27 +328,14 @@
     "Gods/The God of Time.md",
     "People/Cadmus.md",
     "Gods/Ishivan.md",
-    "People/Isabel.md",
     "Lore/Mordred's Report on Isabel.md",
-    "Locations/Terros/Cormyr.md",
     "People/Organizations/The Order of the Red Rose/The Order of the Red Rose.md",
     "People/Organizations/The Order of the Red Rose",
-    "Objects/Codexes/Codex de Natura.md",
     "Objects/Codexes/Codex de Caelus.md",
     "Objects/Codexes/Codex de Gnosis.md",
     "Objects/Codexes",
     "Objects/Elder Blades/Cetus.md",
     "Locations/Terros/Caldaria.md",
-    "Objects/Kestrel.md",
-    "People/Emperor Caius.md",
-    "Locations/Terros/The Empire.md",
-    "Lore/Letter to Lord Cadmus.md",
-    "People/Organizations/The Order of the Magi/Aneius.md",
-    "Lore/The History of Terros, Volume 12.md",
-    "Acadia.md",
-    "People/Organizations/The Order of the Magi/Ezrien.md",
-    "People/Organizations/The Order of the Magi/Henly.md",
-    "Henley.md",
     "People/Organizations/The Holy League",
     "People/Organizations/The Order of the Magi",
     "Lore",
